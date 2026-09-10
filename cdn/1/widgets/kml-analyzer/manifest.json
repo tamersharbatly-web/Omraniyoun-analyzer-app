@@ -1,0 +1,25 @@
+{
+  "name": "kml-analyzer",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "GIS Developer",
+  "description": "أداة مخصصة لرفع KML واستخراج تقرير التقاطع المكاني",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSetting": true,
+    "hasConfig": false,
+    "canSelectMapWidget": true
+  },
+  "dependencies": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 250
+  }
+}
